@@ -14,7 +14,7 @@ ___
 ___
 ### Hackathon participation 
 - [Health Data Hack](https://codenrock.com/contests/hackhealth#/discussions/336) – segmentation of cancer cells in a microscopic tissue image from rectal cancer.
-- [Changellenge Cup IT 2022](https://changellenge.com/tpage/pervyy-tur-changellenge-cup-it-2022/) – binary classification for X5 Group. (awarded a special [prize](https://user-images.githubusercontent.com/95253195/164060741-270c0a67-465c-46ea-9ecb-508d9e5b38ac.png)
+- [Changellenge Cup IT 2022](https://changellenge.com/tpage/pervyy-tur-changellenge-cup-it-2022/) – binary classification for X5 Group. (awarded a special [prize](https://user-images.githubusercontent.com/95253195/164060741-270c0a67-465c-46ea-9ecb-508d9e5b38ac.png))
 
 ___
 ### Python:
