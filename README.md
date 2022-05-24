@@ -8,8 +8,8 @@ __I'm working with:__
 You can see my projects in pinned repositories
 
 ### Education
+* **Computer science and applied mathematics** in Orenburg State Agrarian University, Orenburg 2017
 * **3D-Generalist** in SCREAM SCHOOL 2019 (Continuing Professional Education (CPD) Autonomous Non-Commercial Organization (ANO) "Universal University".)
-* **Data Science** in Elbrus Coding Bootcamp 2022
 
 ### Hackathon participation 
 - [Health Data Hack](https://codenrock.com/contests/hackhealth#/discussions/336) – segmentation of cancer cells in a microscopic tissue image from rectal cancer.
