@@ -14,6 +14,8 @@ You can see my projects in pinned repositories
 ### Hackathon participation 
 - [Health Data Hack](https://codenrock.com/contests/hackhealth#/discussions/336) – segmentation of cancer cells in a microscopic tissue image from rectal cancer.
 - [Changellenge Cup IT 2022](https://changellenge.com/tpage/pervyy-tur-changellenge-cup-it-2022/) – binary classification for X5 Group. (awarded a special [prize](https://user-images.githubusercontent.com/95253195/164060741-270c0a67-465c-46ea-9ecb-508d9e5b38ac.png))
+- [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/) – The task of identifying fake and true news:
+Collection and analysis of the semantic setting of texts (SOTA models), generation of a fake sample for learning linear algorithms, telegram bot. (awarded a ![Finalist Diploma]([Saltykova.pdf](https://github.com/saltykovamariya/saltykovamariya/files/8908374/Saltykova.pdf)))
 
 ### Python:
 ![CodeWars](https://www.codewars.com/users/mashaavgvst/badges/large)
